@@ -1,3 +1,3 @@
 # triggered_lora_msg
 
-## Simple script to trigger an action when a GPIO pin is switched.
+## Simple micropython script to trigger an IRQ action when a selected GPIO pin is switched.
